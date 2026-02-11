@@ -8,7 +8,8 @@ tags: trophées NSI, lycée
 
 ## 📝 Description
 
-Notre objectif est de proposer un service de cartographie permettant de trouver le chemin le plus simple pour acceder a la salle ou on veut aller, nous avons choisi ce sujet pour proposer un service utile aux étudiants, il repond aux critère d'originalitée parceque personne y a pensé
+Notre objectif est de proposer un service de cartographie permettant de trouver le chemin le plus simple pour acceder a la salle ou on veut aller, nous avons choisi ce sujet pour proposer un service utile aux étudiants, il repond aux critère d'originalitée parceque personne y a pensé.
+Explication du fonctionnement theorique du projet: https://chatgpt.com/share/698c5bd3-a6dc-800a-80e2-4138466cfc52
 
 ## 👥 L'Équipe
 

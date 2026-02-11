@@ -1,24 +1,19 @@
 ---
 Auteur: Patrice MARIE-JEANNE
-title: Modèle de README pour les trophées NSI 
+title: README trophées NSI
 tags: trophées NSI, lycée
 ---
 
-# 🚀 Nom de votre Projet
+# Clemenceau map
 
 ## 📝 Description
 
-Une description claire et concise (5-10 lignes) de votre projet.
-
-- Quel est l'objectif ?
-- Pourquoi avez-vous choisi ce sujet ?
-- En quoi répond-il aux critères d'originalité ou d'utilité des Trophées NSI ?
+Notre objectif est de proposer un service de cartographie permettant de trouver le chemin le plus simple pour acceder a la salle ou on veut aller, nous avons choisi ce sujet pour proposer un service utile aux étudiants, il repond aux critère d'originalitée parceque personne y a pensé
 
 ## 👥 L'Équipe
 
-- **Nom Prénom** (@pseudo_git) : Responsable [ex: Algorithmique & Logique]
-- **Nom Prénom** (@pseudo_git) : Responsable [ex: Interface Graphique & Assets]
-- **Nom Prénom** (@pseudo_git) : Responsable [ex: Gestion des données & Documentation]
+- **SERBOUT Elias** (@NEIO-LeMalicieux) : Responsable [travail]
+- **AKDOGAN Azad** (@getzadd) : Responsable [clash royale]
 
 ## 🛠️ Aspects Techniques (Spécificités NSI)
 

@@ -12,8 +12,8 @@ Notre objectif est de proposer un service de cartographie permettant de trouver 
 
 ## 👥 L'Équipe
 
-- **SERBOUT Elias** (@NEIO-LeMalicieux) : Responsable [travail]
-- **AKDOGAN Azad** (@getzadd) : Responsable [clash royale]
+- **SERBOUT Elias** (@NEIO-LeMalicieux) : Responsable []
+- **AKDOGAN Azad** (@getzadd) : Responsable []
 
 ## 🛠️ Aspects Techniques (Spécificités NSI)
 

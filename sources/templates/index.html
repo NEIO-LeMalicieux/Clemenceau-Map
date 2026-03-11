@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>School Map</title>
+    <style>
+        #map-container {
+            position: relative;
+        }
+        #map {
+            width: 800px;
+        }
+        .marker {
+            position: absolute;
+            width: 15px;
+            height: 15px;
+            background: red;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Select Your Room</h2>
+
+<form method="POST">
+    <select name="room">
+        {% for room in rooms %}
+        <option value="{{ room }}">{{ room }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit">Find Path</button>
+</form>
+
+<div id="map-container">
+    <img id="map" src="{{ url_for('static', filename='noir.png') }}">
+
+    {% if selected_room %}
+        <div class="marker"
+             style="left: {{ rooms[selected_room]['x'] }}px;
+                    top: {{ rooms[selected_room]['y'] }}px;">
+        </div>
+    {% endif %}
+</div>
+
+{% if path %}
+<h3>Path:</h3>
+<p>
+    {{ path | join(" → ") }}
+</p>
+{% endif %}
+
+</body>
+</html>

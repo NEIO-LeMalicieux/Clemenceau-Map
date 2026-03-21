@@ -1,0 +1,3 @@
+associer la carte a la structure de données(dicc de coordn)
+pr avoir une barre de recherche de salles
+modeliser de quoi relier les points

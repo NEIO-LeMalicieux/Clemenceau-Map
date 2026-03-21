@@ -1,4 +1,6 @@
 from flask import Flask, render_template, request
+import tkinter as tk
+from PIL import Image, ImageTk
 
 app = Flask(__name__)
 
@@ -7,7 +9,7 @@ salles = [
 # COULOIR BAS (administration / CDI)
 {"id":"48","type":"salle","escalier_proche":"K","x":70,"y":92},
 {"id":"49","type":"salle","escalier_proche":"K","x":65,"y":92},
-{"id":"50","type":"salle","escalier_proche":"K","x":60,"y":92},
+{"id":"50","type":"salle","escalier_proche":"K","x":60,"y":92},d 
 {"id":"51","type":"salle","escalier_proche":"K","x":55,"y":92},
 {"id":"52","type":"salle","escalier_proche":"K","x":50,"y":92},
 {"id":"53","type":"salle","escalier_proche":"A","x":45,"y":92},
@@ -162,6 +164,6 @@ def find_path(graph, start, end):
 def index():
     selected_room = None
     path = None
-    return render_template(index.html)
+    return render_template("index.html")
 
 app.run(debug=True)

@@ -10,7 +10,7 @@ tags: trophées NSI, lycée
 
 Notre objectif est de proposer un service de cartographie permettant de trouver le chemin le plus simple pour acceder a la salle ou on veut aller, nous avons choisi ce sujet pour proposer un service utile aux étudiants, il repond aux critère d'originalitée parce que personne n'y a pensé ni ne la réalisé.
 
-Explication du fonctionnement theorique du projet: https://chatgpt.com/share/698c5bd3-a6dc-800a-80e2-4138466cfc52
+Code crée par ia: https://chatgpt.com/share/698c5bd3-a6dc-800a-80e2-4138466cfc52
 
 ## 👥 L'Équipe
 
@@ -18,21 +18,17 @@ Explication du fonctionnement theorique du projet: https://chatgpt.com/share/698
 - **AKDOGAN Azad** (@getzadd) : Responsable []
 
 ## 🛠️ Aspects Techniques (Spécificités NSI)
+Afin de mener a bien notre eminent projet, nous avons utilisé les parties du programme portant sur l'html et le python afin d'assembler le code ainsi que le chapitre portant sur le flask pour essayer la partie serveur.
 
-Cette section est cruciale pour le jury. Expliquez comment vous avez utilisé le programme de NSI :
-
-- **Langages & Libs :** Python (Pygame, SQLite, etc.)
-- **Structures de données :** Utilisation de dictionnaires pour gérer l'inventaire, de listes de listes pour la grille du jeu, etc.
-- **Concepts mobilisés :** - Programmation Orientée Objet (ex: classe `Player` et `Enemy`).
-  - Récursivité (ex: pour l'algorithme de parcours de labyrinthe).
-  - Gestion de fichiers (ex: sauvegarde des scores en JSON).
+- **Langages & Libs :** Python (SQLite, python, html)
+- **Structures de données :** Dictionnaires de coordonnées
+- **Concepts mobilisés :** Flask pour le serveur
 
 ## 🚀 Installation et Utilisation
+Tester le projet: installer le git sur votre interpreteur et lancer le programme python puis ouvrir le lien dans le terminal
 
-Expliquez comment tester votre projet :
-
-1. **Prérequis :** (ex: Python 3.10+)
-2. **Installation des dépendances :** `pip install -r requirements.txt`
+1. **Prérequis :** Python 3.10+, flask, html
+2. **Installation des dépendances :** `python -m pip --version`, `pip install -m flask`
 3. **Lancement :** `python main.py`
 
 ## 📊 État d'avancement (Journal de bord)

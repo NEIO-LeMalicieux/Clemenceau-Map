@@ -9,7 +9,7 @@ salles = [
 # COULOIR BAS (administration / CDI)
 {"id":"48","type":"salle","escalier_proche":"K","x":70,"y":92},
 {"id":"49","type":"salle","escalier_proche":"K","x":65,"y":92},
-{"id":"50","type":"salle","escalier_proche":"K","x":60,"y":92},d 
+{"id":"50","type":"salle","escalier_proche":"K","x":60,"y":92},
 {"id":"51","type":"salle","escalier_proche":"K","x":55,"y":92},
 {"id":"52","type":"salle","escalier_proche":"K","x":50,"y":92},
 {"id":"53","type":"salle","escalier_proche":"A","x":45,"y":92},

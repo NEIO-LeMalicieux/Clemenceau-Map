@@ -1,9 +1,3 @@
----
-Auteur: Patrice MARIE-JEANNE
-title: README trophées NSI
-tags: trophées NSI, lycée
----
-
 # Clemenceau map
 
 ## 📝 Description

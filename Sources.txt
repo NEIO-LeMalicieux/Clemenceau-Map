@@ -1,0 +1,6 @@
+Sources:
+-administration du lycée pour la carte
+-Professeur(Patrick Marie-Jeanne)
+-https://docs.python.org pour le python
+-https://www.w3schools.com/html/ pour l'html
+-connaissances acquises du programme(flask, dictionnaires...)
